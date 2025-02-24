@@ -48,4 +48,9 @@ public class ClienteService {
     public List<Cliente> listarClientes() {
         return repository.findAll();
     }
+
+    public Cliente getClienteById(Long id) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getClienteById'");
+    }
 }
