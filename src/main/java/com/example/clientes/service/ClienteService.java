@@ -50,7 +50,6 @@ public class ClienteService {
     }
 
     public Cliente getClienteById(Long id) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getClienteById'");
     }
 }
